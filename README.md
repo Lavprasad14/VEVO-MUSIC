@@ -9,10 +9,10 @@ import random
 API_ID = "27333817"
 API_HASH = "67eac1d942fd881c2bc9d71209e21a77"
 BOT_TOKEN = "7754706931:AAHiNJT8u2u1vqPI2rv2yR_GNg9ZcXhjmLg"
-OWNER_ID = 7789005102  # Replace with your Telegram User ID
+OWNER_ID = 7789005102
 
 app = Client(
-    "vevo_music_bot",
+    "vevomusic_bot",
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN
